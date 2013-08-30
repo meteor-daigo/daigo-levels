@@ -1,0 +1,11 @@
+{
+	"name": "daigo-levels",
+	"description": "The levels package for Daigo",
+	"homepage": "https://github.com/meteor-daigo/daigo-levels",
+	"author": "The Daigo Team",
+	"version": "0.1.0",
+	"git": "https://github.com/meteor-daigo/daigo-levels.git",
+	"packages": {
+		"smart-collections": {}
+	}
+}
